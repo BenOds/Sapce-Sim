@@ -1431,6 +1431,7 @@ MonoBehaviour:
   currentHealth: 100
   damageBullet: 2
   lifeBar: {fileID: 277043114}
+  explosion: {fileID: 19800008, guid: c466276509f8b40a59f02d115254fc25, type: 3}
 --- !u!54 &1634827852
 Rigidbody:
   m_ObjectHideFlags: 0
